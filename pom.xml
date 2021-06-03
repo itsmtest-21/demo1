@@ -9,7 +9,7 @@
     <artifactId>app-itsm-test-master</artifactId>
     <version>20.0.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <modules>
+    <modules> <!-- Hello this is demo commit -->
         <module>../app-itsm-test-parent</module>
         <module>../app-itsm-test-commons</module>
         <module>../app-itsm-test-library</module>
